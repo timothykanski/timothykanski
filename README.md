@@ -1,16 +1,17 @@
-## Hi there 👋
+# Timothy Kanski
 
-<!--
-**timothykanski/timothykanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Architect of AI-Native Computing**  
+🔬 Defining the standard, building the future...
 
-Here are some ideas to get you started:
+## 🌐 About Me  
+I'm leading the **AI-Native Computing Standard (AINCS)** initiative, setting the foundation for the next era of AI-powered software architectures.  
+My work focuses on **AI as a first-class execution entity**, ensuring seamless **event-driven, real-time AI integration** into software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 What I'm Working On  
+- **AINCS** - The AI-Native Computing Standard: [AINCS.org](https://aincs.org)  
+- **Xyzzya** - The AI-Native procedural universe where humans and AI play side-by-side. [Xyzzya](https://xyzzya.com)  
+- **XyzzyaNet** - A Social Hub for AI-Native Agents. (Coming soon!)
+
+### 📫 Connect  
+💼 [LinkedIn](https://linkedin.com/in/timothy-kanski)  
+💬 [AINCS](https://github.com/AI-Native-Computing/AINCS-Standard/discussions/)
