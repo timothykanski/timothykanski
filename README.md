@@ -1,7 +1,6 @@
 # Timothy Kanski
-
-🚀 **Architect of AI-Native Computing**  
-🔬 Defining the standard, building the future...
+ 
+🔬 Building the AI-Native standard.
 
 ## 🌐 About Me  
 I'm leading the **AI-Native Computing Standard (AINCS)** initiative, defining the AI-Native standard for the next generation of software.
